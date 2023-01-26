@@ -1,2 +1,2 @@
-# PrepCourseHenry
-Este es un repositorio del Prep Course de Henry.
+Ezequiel Elcontar
+Este proyecto es una prueba acerca de como clonar un repositio y clonarlo desde Github a mi repositorio local.
